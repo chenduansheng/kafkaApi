@@ -5,7 +5,7 @@
     "autoload":{
         "psr-4":{
             "Common\\MQ\\Kafka\\":"src/MQ/Kafka",
-            "Common\\MQ\\Kafka\\":"src/MQ/Rabbitmq"
+            "Common\\MQ\\Rabbitmq\\":"src/MQ/Rabbitmq"
         }
     }
 }
