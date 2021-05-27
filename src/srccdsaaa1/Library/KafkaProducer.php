@@ -1,6 +1,6 @@
 <?php
 
-namespace srccdsaaa1/Library;
+namespace Srccdsaaa1\Library;
 
 /**
 +------------------------------------------------------------------------------
