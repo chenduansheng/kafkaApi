@@ -1,5 +1,5 @@
 {
-    "name": "common-test/MQ",
+    "name": "common-test/mq",
     "description": "desss",
     "require": {},
     "autoload":{
