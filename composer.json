@@ -4,7 +4,7 @@
     "require": {},
     "autoload":{
         "psr-4":{
-            "cdsaaa1\\Library":"src/cdsbbb2/Library"
+            "cdsaaa1\\Library\\":"src/cdsbbb2/Library"
         }
     }
 }
