@@ -1,5 +1,10 @@
 {
     "name": "packcdsa/packcdsb",
     "description": "desss",
-    "require": {}
+    "require": {},
+    "autoload":{
+        "psr-4":{ //psr-4 规范
+            "cdsaaa1\\Library":"src/cdsbbb2/Library"
+        }
+    }
 }
