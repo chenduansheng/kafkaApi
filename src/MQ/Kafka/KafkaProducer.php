@@ -1,6 +1,6 @@
 <?php
 
-namespace Srccdsaaa1\Library;
+namespace Common\MQ\Kafka;
 
 /**
 +------------------------------------------------------------------------------
