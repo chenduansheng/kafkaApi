@@ -1,10 +1,11 @@
 {
-    "name": "packcdsa/packcdsb",
+    "name": "common-test/MQ",
     "description": "desss",
     "require": {},
     "autoload":{
         "psr-4":{
-            "Srccdsaaa1\\Library\\":"src/Srccdsaaa1/Library"
+            "Common\\MQ\\Kafka\\":"src/MQ/Kafka",
+            "Common\\MQ\\Kafka\\":"src/MQ/Rabbitmq"
         }
     }
 }
